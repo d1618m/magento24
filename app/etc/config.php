@@ -290,6 +290,7 @@ return [
         'Dotdigitalgroup_Email' => 1,
         'Dotdigitalgroup_Chat' => 1,
         'Kgkrunch_CategoryAttribute' => 1,
+        'Kgkrunch_InternationalShipping' => 0,
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
         'Klarna_Onsitemessaging' => 1,
